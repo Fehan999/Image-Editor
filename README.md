@@ -1,7 +1,7 @@
-Image Editor - React App
-A modern, feature-rich image editor built with React. Upload, edit, and download images with a beautiful dark-themed UI.
+# Image Editor - React App
+# A modern, feature-rich image editor built with React. Upload, edit, and download images with a beautiful dark-themed UI.
 
--- Features
+# Features
 Upload: Drag & drop or click to upload (PNG, JPG, WEBP, SVG)
 
 Adjust: Brightness, Contrast, Saturation (0-200%)
@@ -16,7 +16,7 @@ Modern UI: Dark theme with glassmorphism & smooth animations
 
 Responsive: Works on desktop, tablet, and mobile
 
--- Tech Stack
+# Tech Stack
 React 18
 
 Framer Motion (Animations)
@@ -45,7 +45,7 @@ npm start
 # Build for production
 
 npm run build
-📁 Project Structure
+# 📁 Project Structure
 text
 image-editor/
 ├── src/
@@ -67,7 +67,7 @@ image-editor/
 │ └── App.css
 ├── package.json
 └── README.md
-🎯 Usage
+# 🎯 Usage
 Upload: Click or drag image to upload
 
 Edit: Use tabs to switch between controls
@@ -80,7 +80,7 @@ Transform: Rotate or zoom
 
 Save: Click "Download Image" button
 
-📄 License
+# 📄 License
 MIT License - see LICENSE file
 
 Developed by Ehan Siddique
